@@ -1,0 +1,14 @@
+.images{
+    width: 100%;
+    z-index: 1;
+    margin-top: -58px;
+}
+.images-ozellik{
+    margin-top: 42px;
+    min-height: 600px;
+    max-height: 600px;
+}
+.hr-ozellik{
+    
+    color: black;
+}
